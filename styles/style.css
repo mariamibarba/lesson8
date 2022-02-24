@@ -56,10 +56,12 @@ input::placeholder{
 h1 {
 	color: #FFFFFF;
 	font-size: 32px;
+	font-family:'ALK Rex Bold' ;
 }
 p{
 	color: #FFFFFF;
 	font-size: 16px;
+	font-family:'ALK Rex Bold' ;
 
 }
 
@@ -69,6 +71,9 @@ iframe {
 	border-radius: 28px;
 	margin-top: 30px;
 }
+.text-blok p {
+
+}
 .contact-box{
 	display: flex;
 
@@ -77,6 +82,7 @@ iframe {
 .contact-box p{
 	padding-left: 10px;
 	padding-top: 15px;
+	font-family: 'ALK Rex Bold';
 }
 .call-box{
 	display: flex;
@@ -107,4 +113,5 @@ iframe {
 	margin: 20px;
 	color: #FFFFFF;
 }
+
 
