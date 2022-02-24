@@ -71,9 +71,7 @@ iframe {
 	border-radius: 28px;
 	margin-top: 30px;
 }
-.text-blok p {
 
-}
 .contact-box{
 	display: flex;
 
@@ -98,6 +96,10 @@ iframe {
 	border-radius: 40px;
 	margin: 10px;
 	
+}
+.logo-box{
+	display: flex;
+	justify-content: flex-end;
 }
 .footer-content{
 	display: flex;
